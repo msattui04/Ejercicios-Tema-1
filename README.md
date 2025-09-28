@@ -1,5 +1,7 @@
 # Ejercicios-Tema-1
 
+https://github.com/msattui04/Ejercicios-Tema-1.git
+
 🧪 Tema 1: Repaso de Python
 🧩 Ejercicio 1: Decodificador de Mensajes Secretos
 Has recibido un mensaje cifrado en una cadena de texto. El mensaje está invertido y contiene caracteres especiales que deben eliminarse.
